@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication22.cpp
+C:\Users\ssarabjo\Desktop\CorC++\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(357): warning C4715: 'indexNum': not all control paths return a value
+  ConsoleApplication22.vcxproj -> C:\Users\ssarabjo\Desktop\CorC++\ConsoleApplication22\Debug\ConsoleApplication22.exe
